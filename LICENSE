@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+----------------------------------------------------------------------
+Third-Party Notices
+----------------------------------------------------------------------
+
+This software includes or adapts code from the following sources:
+
+- NTRU+Sign (https://github.com/KU-Cryptographic-Protocol-Lab/ntruplus_sign.git):
+  Distributed under the MIT License.
+  Copyright (c) 2024 KU-Cryptographic-Protocol-Lab.
+  See the original LICENSE file for details.
+
+- HAETAE (https://kpqc.cryptolab.co.kr/haetae):
+  Implementation accompanying the paper.
+  Distributed under the MIT License.
+  See the original LICENSE file for details.
+
+- Dilithium (https://github.com/pq-crystals/dilithium):
+  Released under a dual license—either the Creative Commons Zero (CC0) public
+  domain dedication or the Apache 2.0 License. Users may choose either license
+  according to their needs. See the original LICENSE file for details.
+
+All portions of these projects used or modified here remain subject to their
+original licenses. Where required, the corresponding license texts and notices
+are included with this distribution.
